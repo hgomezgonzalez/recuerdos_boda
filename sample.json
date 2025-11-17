@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ana García",
+    "memory": "Nuestra querida amiga desde la universidad, siempre presente en los momentos más importantes.",
+    "imageURL": "https://picsum.photos/seed/ana/600/600"
+  },
+  {
+    "name": "Carlos Rodríguez",
+    "memory": "El padrino que nos introdujo hace 5 años en aquella cena inolvidable.",
+    "imageURL": "https://picsum.photos/seed/carlos/600/600"
+  },
+  {
+    "name": "María López",
+    "memory": "La madrina que organizó nuestra despedida de solteros más épica.",
+    "imageURL": "https://picsum.photos/seed/maria/600/600"
+  },
+  {
+    "name": "Diego Martínez",
+    "memory": "Compañero de aventuras desde el colegio, testigo de nuestra historia.",
+    "imageURL": "https://picsum.photos/seed/diego/600/600"
+  },
+  {
+    "name": "Laura Sánchez",
+    "memory": "La prima que nos ayudó con todos los preparativos de la boda.",
+    "imageURL": "https://picsum.photos/seed/laura/600/600"
+  },
+  {
+    "name": "Roberto Pérez",
+    "memory": "El amigo que viajó desde el extranjero para estar con nosotros hoy.",
+    "imageURL": "https://picsum.photos/seed/roberto/600/600"
+  },
+  {
+    "name": "Isabel Fernández",
+    "memory": "Nuestra vecina favorita que se convirtió en familia.",
+    "imageURL": "https://picsum.photos/seed/isabel/600/600"
+  },
+  {
+    "name": "Alejandro Ruiz",
+    "memory": "El fotógrafo de nuestra preboda y gran amigo.",
+    "imageURL": "https://picsum.photos/seed/alejandro/600/600"
+  },
+  {
+    "name": "Sofia Morales",
+    "memory": "La amiga que siempre nos da los mejores consejos de pareja.",
+    "imageURL": "https://picsum.photos/seed/sofia/600/600"
+  },
+  {
+    "name": "Pedro González",
+    "memory": "Nuestro mentor y guía en este camino del amor.",
+    "imageURL": "https://picsum.photos/seed/pedro/600/600"
+  },
+  {
+    "name": "Carmen Torres",
+    "memory": "La tía que nos enseñó el verdadero significado del amor incondicional.",
+    "imageURL": "https://picsum.photos/seed/carmen/600/600"
+  },
+  {
+    "name": "Miguel Jiménez",
+    "memory": "El hermano que siempre creyó en nosotros desde el primer día.",
+    "imageURL": "https://picsum.photos/seed/miguel/600/600"
+  }
+]

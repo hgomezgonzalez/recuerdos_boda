@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-wedding-blue text-wedding-ivory;
+  }
+}
+
+@layer utilities {
+  .animate-lever-pull {
+    animation: lever-pull 0.5s ease-in-out;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-wedding-blue-dark;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-wedding-ochre rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-wedding-ochre-light;
+}
+
+/* Disable text selection during gameplay */
+.no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
